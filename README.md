@@ -16,6 +16,6 @@ The initial run can throw an error on account of some dependency issues. Please 
 
 ## Requirements covered
 
-Implemented the genre filtrer.\
+Implemented the genre filter.\
 Default page load is for year 2012 and a total of 20 movies are shown. \
 Tried for smooth scrolling(using intersection observer, scroll events) but couldn't get it to work.
